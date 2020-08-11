@@ -1,3 +1,5 @@
+.vscode/
+.tox/
 *.pyc
 test.db
 .coverage
